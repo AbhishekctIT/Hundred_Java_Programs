@@ -10,5 +10,6 @@ public class FloydsTriangle28 {
             }
             System.out.println();
         }
+
     }
 }
